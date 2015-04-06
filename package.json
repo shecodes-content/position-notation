@@ -1,6 +1,6 @@
 {
   "name": "positional-notation",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "decimal, binary, octal and hexadecimal notation",
   "main": "index.js",
   "scripts": {
