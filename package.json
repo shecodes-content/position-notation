@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/shecodes-content/position-notation",
   "devDependencies": {
-    "brainpm-youtube": "^1.0.0"
+    "brainpm-youtube": "1.x.x"
   },
   "dependencies": {
     "lazy-youtube": "^2.0.1"
