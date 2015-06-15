@@ -1,0 +1,42 @@
+{
+  "name": "positional-notation",
+  "version": "1.1.0",
+  "description": "decimal, binary, octal and hexadecimal notation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:shecodes-content/position-notation.git"
+  },
+  "brain": {
+    "provides": [
+      "bit",
+      "binary",
+      "octal",
+      "hexadecimal"
+    ],
+    "track": "yellow",
+    "main": "index.js",
+    "content-transform": [
+      "brainpm-youtube"
+    ],
+    "bundler": {
+      "name": "bpm-bundle",
+      "version": "1.2.0"
+    }
+  },
+  "author": "Jan Bölsche <jan@lagomorph.de> (http://regular.codes)",
+  "license": "CC-SA-BY-3.0",
+  "bugs": {
+    "url": "https://github.com/shecodes-content/position-notation/issues"
+  },
+  "homepage": "https://github.com/shecodes-content/position-notation",
+  "devDependencies": {
+    "brainpm-youtube": "1.x.x"
+  },
+  "dependencies": {
+    "lazy-youtube": "^2.0.1"
+  }
+}
